@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="minesweeoer/minesweeoer.vcxproj" Id="f0231514-fd53-4a12-91a3-cb25ba12ce72" />
+</Solution>
